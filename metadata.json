@@ -1,0 +1,6 @@
+{
+  "name": "RoomieSplit",
+  "description": "Frictionless roommate expense tracker with simplified running balances, equal splits, and one-click debt settlements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
